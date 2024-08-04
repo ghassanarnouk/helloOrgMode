@@ -1,0 +1,38 @@
+* Section
+Text text text!
+
+** Subsection
+.. Text text text!
+
+*** Subsubsection
+.... Text text text!
+
+* Checkbox [2/4] [50%]
+
+- [X] eggs
+- [ ] butter
+- [X] bread
+- [ ] milk
+
+* Tables
+
+** Table 1
+
+| Task   | Status      |
+|--------+-------------|
+| Task 1 | Pending     |
+| Task 2 | In Progress |
+| Task 3 | Complete    |
+
+** Table 2
+
+| First Name | Last Name | Age |
+|------------+-----------+-----|
+| John       | Doe       |  55 |
+| Stephane   | Smither   |  23 |
+|------------+-----------+-----|
+
+* Todo List
+
+** DONE create an org mode repo
+** TODO push the example doc to GitHub

@@ -1,0 +1,80 @@
+Ghassan Arnouk
+
+
+Table of Contents
+─────────────────
+
+1. Section
+.. 1. Subsection
+..... 1. Subsubsection
+2. Checkbox [2/4] [50%]
+3. Tables
+.. 1. Table 1
+.. 2. Table 2
+4. Todo List
+.. 1. DONE create an org mode repo
+.. 2. TODO push the example doc to GitHub
+
+
+1 Section
+═════════
+
+  Text text text!
+
+
+1.1 Subsection
+──────────────
+
+  .. Text text text!
+
+
+1.1.1 Subsubsection
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  …. Text text text!
+
+
+2 Checkbox [2/4] [50%]
+══════════════════════
+
+  • ☑ eggs
+  • ☐ butter
+  • ☑ bread
+  • ☐ milk
+
+
+3 Tables
+════════
+
+3.1 Table 1
+───────────
+
+  ━━━━━━━━━━━━━━━━━━━━━
+   Task    Status      
+  ─────────────────────
+   Task 1  Pending     
+   Task 2  In Progress 
+   Task 3  Complete    
+  ━━━━━━━━━━━━━━━━━━━━━
+
+
+3.2 Table 2
+───────────
+
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   First Name  Last Name  Age 
+  ────────────────────────────
+   John        Doe         55 
+   Stephane    Smither     23 
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+4 Todo List
+═══════════
+
+4.1 DONE create an org mode repo
+────────────────────────────────
+
+
+4.2 TODO push the example doc to GitHub
+───────────────────────────────────────
